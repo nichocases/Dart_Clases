@@ -14,5 +14,11 @@ void main(List<String> arguments) {
   list.removeAt(2);
   print(list);
 
-  
+  Set  set;
+  set = Set.from(['Argel','juan','pedro']);
+  print(set);
+  set.add('erika');
+  print(set);
+  set.remove('Argel');
+  print(set);
 }
