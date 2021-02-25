@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BspLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../play-scala-seed" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68409da8-dbb8-4eff-aa86-6a7db07ed98d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1oxJlEVT5qF6mJcrioZgPxqnsDm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Clase5" />
+  </component>
+  <component name="RunManager" selected="Dart Command Line App.test">
+    <configuration name="test" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <option name="filePath" value="$PROJECT_DIR$/bin/Dart_Platzi.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <option name="filePath" value="$PROJECT_DIR$/bin/Dart_Platzi.dart" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tests in Dart_Platzi" type="DartTestRunConfigurationType" factoryName="Dart Test" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$" />
+      <option name="scope" value="FOLDER" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Command Line App.test" />
+      <item itemvalue="Dart Test.tests in Dart_Platzi" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68409da8-dbb8-4eff-aa86-6a7db07ed98d" name="Default Changelist" comment="" />
+      <created>1614222457556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614222457556</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="94" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614222976498">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="94" y="0" width="1092" height="728" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.728@0.0.1280.728" timestamp="1614222976498" />
+    <state x="369" y="154" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1614222967366">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="369" y="154" key="#com.intellij.ide.util.TreeFileChooserDialog/0.0.1280.728@0.0.1280.728" timestamp="1614222967366" />
+    <state x="420" y="126" key="FileChooserDialogImpl" timestamp="1614260168283">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="420" y="126" key="FileChooserDialogImpl/0.0.1280.728@0.0.1280.728" timestamp="1614260168283" />
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom" timestamp="1614260170499">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="181" key="GridCell.Tab.0.bottom/0.0.1280.728@0.0.1280.728" timestamp="1614260170499" />
+    <state width="1237" height="181" key="GridCell.Tab.0.center" timestamp="1614260170499">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="181" key="GridCell.Tab.0.center/0.0.1280.728@0.0.1280.728" timestamp="1614260170499" />
+    <state width="1237" height="181" key="GridCell.Tab.0.left" timestamp="1614260170499">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="181" key="GridCell.Tab.0.left/0.0.1280.728@0.0.1280.728" timestamp="1614260170499" />
+    <state width="1237" height="181" key="GridCell.Tab.0.right" timestamp="1614260170499">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1237" height="181" key="GridCell.Tab.0.right/0.0.1280.728@0.0.1280.728" timestamp="1614260170499" />
+  </component>
+</project>
